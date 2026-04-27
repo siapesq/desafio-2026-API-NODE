@@ -3,8 +3,8 @@
 
 ### 🎯 Objetivo
 
-Construir uma API para gerenciamento e análise de dados de espécies (simulando o contexto da SIAPESQ).
-Périodo para executar: Dia 27 de abril até 7 de maio
+* Construir uma API para gerenciamento e análise de dados de espécies (simulando o contexto da SIAPESQ).
+* Periodo para executar: Dia 27 de abril até 7 de maio
 
 📌 Descrição do desafio
 -----------------------
